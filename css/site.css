@@ -1,0 +1,81 @@
+
+
+
+body {
+    font-family: 'Lora', serif !important;
+    margin-bottom: 6rem;
+    background-color: #F3FCF0
+}
+
+.cursive {
+    font-family: 'Condiment', cursive;
+}
+
+.divider {
+    margin-top: 3rem;
+    margin-bottom: 3rem;   
+}
+
+.divider .divider-text {
+    color: #00A6A6;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.header-logo {
+    color: #F2CE1F; 
+    text-shadow: 2px 2px #F28900;
+    margin: 40px 0 20px 0;
+    font-size: 4rem;
+}
+
+.header-option {
+    color: #00A6A6;
+    cursor: pointer;
+    text-decoration: none !important;
+    margin: 0 10px 0 10px;
+}
+
+.header-option:hover {
+    color :#F2CE1F;
+    transition: 0.1s;
+}
+
+.tile-category {
+    color: #F28900;
+}
+
+.tile-header {
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: #00A6A6
+}
+
+.tile-description {
+    margin: 1rem 0 1rem 0;
+}
+
+.tile-credit {
+    color: #F28900;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.tile-date {
+    color: #4AD6C1;
+    font-weight: 100;
+    margin-left: 0.6rem;
+}
+
+.selected-work {
+    margin-top: 1.3rem;
+}
+
+.selected-work .tile-header {
+    font-size: 1.7rem;
+}
+
+.social-icon {
+    
+    max-width: 1rem;
+}
